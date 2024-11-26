@@ -14,10 +14,6 @@ A fully responsive Netflix-inspired web application showcasing a modern UI/UX de
   - Hover effects on movie posters.
   - Buttons for seamless interactions.
 
-## Live Demo
-
-(*Provide a link to the deployed project or attach a preview screenshot.*)
-
 ## Installation
 
 1. Clone this repository:
